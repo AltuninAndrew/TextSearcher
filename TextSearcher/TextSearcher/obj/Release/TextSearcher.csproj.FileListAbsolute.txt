@@ -1,0 +1,9 @@
+C:\Users\Al_an\source\repos\TextSearcher\TextSearcher\bin\Release\TextSearcher.exe.config
+C:\Users\Al_an\source\repos\TextSearcher\TextSearcher\bin\Release\TextSearcher.exe
+C:\Users\Al_an\source\repos\TextSearcher\TextSearcher\bin\Release\TextSearcher.pdb
+C:\Users\Al_an\source\repos\TextSearcher\TextSearcher\obj\Release\TextSearcher.MainForm.resources
+C:\Users\Al_an\source\repos\TextSearcher\TextSearcher\obj\Release\TextSearcher.Properties.Resources.resources
+C:\Users\Al_an\source\repos\TextSearcher\TextSearcher\obj\Release\TextSearcher.csproj.GenerateResource.cache
+C:\Users\Al_an\source\repos\TextSearcher\TextSearcher\obj\Release\TextSearcher.csproj.CoreCompileInputs.cache
+C:\Users\Al_an\source\repos\TextSearcher\TextSearcher\obj\Release\TextSearcher.exe
+C:\Users\Al_an\source\repos\TextSearcher\TextSearcher\obj\Release\TextSearcher.pdb
